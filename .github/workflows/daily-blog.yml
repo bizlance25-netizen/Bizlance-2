@@ -1,0 +1,34 @@
+name: Daily Blog Post (GitHub Pages)
+
+on:
+  schedule:
+    - cron: "0 9 * * *"   # 9 AM UTC daily
+  workflow_dispatch: {}
+
+# Needed so this workflow's automatic GITHUB_TOKEN is allowed to push commits back
+permissions:
+  contents: write
+
+jobs:
+  post-blog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+
+      - name: Generate + publish blog post to docs/
+        run: python scripts/post_blog.py
+        working-directory: .
+        env:
+          POLLINATIONS_KEY: ${{ secrets.POLLINATIONS_KEY }}
+
+      - name: Commit and push the new post
+        run: |
+          git config user.name "bizlance-bot"
+          git config user.email "bot@bizlance.online"
+          git add docs/
+          git diff --cached --quiet || git commit -m "New blog post [skip ci]"
+          git push

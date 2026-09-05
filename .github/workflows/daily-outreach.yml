@@ -1,0 +1,36 @@
+name: Daily Business Outreach
+
+on:
+  schedule:
+    - cron: "0 8 * * 1-5"  # 8 AM UTC, weekdays only
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  send-outreach:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+
+      - name: Send outreach emails
+        run: python scripts/send_outreach.py
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          POLLINATIONS_KEY: ${{ secrets.POLLINATIONS_KEY }}
+          DAILY_CAP_PROVIDER: ${{ secrets.DAILY_CAP_PROVIDER }}
+          DAILY_CAP_BUYER: ${{ secrets.DAILY_CAP_BUYER }}
+
+      - name: Commit updated leads.csv (marks who was emailed)
+        run: |
+          git config user.name "bizlance-bot"
+          git config user.email "bot@bizlance.online"
+          git add leads.csv
+          git diff --cached --quiet || git commit -m "Update leads.csv sent status [skip ci]"
+          git push
