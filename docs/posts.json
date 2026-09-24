@@ -34,21 +34,6 @@
     ]
   },
   {
-    "slug": "winning-ai-clients-without-racing-to-the-bottom",
-    "title": "Winning AI Clients Without Racing to the Bottom",
-    "meta_description": "Winning AI clients hinges on differentiating yourself from rivals, not lowering prices. Learn strategies to attract high\u2011value projects while keeping your rates sustainable.",
-    "date": "2026-09-18",
-    "segment": "provider",
-    "labels": [
-      "AI marketing",
-      "price strategy",
-      "Bizlance",
-      "freelancers",
-      "business clients",
-      "provider"
-    ]
-  },
-  {
     "slug": "why-ai-projects-fail-and-how-to-avoid-it",
     "title": "Why AI projects fail (and how to avoid it)",
     "meta_description": "Why AI projects fail (and how to avoid it)",
@@ -101,6 +86,21 @@
     "segment": "buyer",
     "labels": [
       "buyer"
+    ]
+  },
+  {
+    "slug": "winning-ai-clients-without-racing-to-the-bottom",
+    "title": "Winning AI Clients Without Racing to the Bottom",
+    "meta_description": "Winning AI clients hinges on differentiating yourself from rivals, not lowering prices. Learn strategies to attract high\u2011value projects while keeping your rates sustainable.",
+    "date": "2026-09-24",
+    "segment": "provider",
+    "labels": [
+      "AI marketing",
+      "price strategy",
+      "Bizlance",
+      "freelancers",
+      "business clients",
+      "provider"
     ]
   }
 ]
