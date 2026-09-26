@@ -44,16 +44,6 @@
     ]
   },
   {
-    "slug": "how-to-build-an-ai-case-study-that-actually-converts",
-    "title": "How to build an AI case study that actually converts",
-    "meta_description": "How to build an AI case study that actually converts",
-    "date": "2026-09-20",
-    "segment": "provider",
-    "labels": [
-      "provider"
-    ]
-  },
-  {
     "slug": "how-to-choose-an-ai-agency-for-your-business",
     "title": "How to Choose an AI Agency for Your Business",
     "meta_description": "How to choose an AI agency is crucial for businesses looking to leverage AI technology. Finding the right partner can mean the difference between accelerated growth and costly missteps.",
@@ -116,6 +106,16 @@
       "AI services",
       "Bizlance",
       "buyer"
+    ]
+  },
+  {
+    "slug": "how-to-build-an-ai-case-study-that-actually-converts",
+    "title": "How to build an AI case study that actually converts",
+    "meta_description": "How to build an AI case study that actually converts",
+    "date": "2026-09-26",
+    "segment": "provider",
+    "labels": [
+      "provider"
     ]
   }
 ]
