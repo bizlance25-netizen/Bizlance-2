@@ -1,15 +1,5 @@
 [
   {
-    "slug": "how-much-does-an-ai-automation-project-actually-cost",
-    "title": "How much does an AI automation project actually cost?",
-    "meta_description": "How much does an AI automation project actually cost?",
-    "date": "2026-09-13",
-    "segment": "buyer",
-    "labels": [
-      "buyer"
-    ]
-  },
-  {
     "slug": "5-ai-workflows-every-small-business-should-consider",
     "title": "5 AI workflows every small business should consider",
     "meta_description": "5 AI workflows every small business should consider",
@@ -116,6 +106,16 @@
     "segment": "provider",
     "labels": [
       "provider"
+    ]
+  },
+  {
+    "slug": "how-much-does-an-ai-automation-project-actually-cost",
+    "title": "How much does an AI automation project actually cost?",
+    "meta_description": "How much does an AI automation project actually cost?",
+    "date": "2026-09-27",
+    "segment": "buyer",
+    "labels": [
+      "buyer"
     ]
   }
 ]
