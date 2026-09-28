@@ -49,16 +49,6 @@
     ]
   },
   {
-    "slug": "how-to-create-a-high-converting-provider-profile",
-    "title": "How to create a high-converting provider profile",
-    "meta_description": "How to create a high-converting provider profile",
-    "date": "2026-09-22",
-    "segment": "provider",
-    "labels": [
-      "provider"
-    ]
-  },
-  {
     "slug": "how-to-evaluate-an-ai-provider-before-you-hire-one",
     "title": "How to evaluate an AI provider before you hire one",
     "meta_description": "How to evaluate an AI provider before you hire one",
@@ -116,6 +106,16 @@
     "segment": "buyer",
     "labels": [
       "buyer"
+    ]
+  },
+  {
+    "slug": "how-to-create-a-high-converting-provider-profile",
+    "title": "How to create a high-converting provider profile",
+    "meta_description": "How to create a high-converting provider profile",
+    "date": "2026-09-28",
+    "segment": "provider",
+    "labels": [
+      "provider"
     ]
   }
 ]
