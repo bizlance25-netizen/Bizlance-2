@@ -1,15 +1,5 @@
 [
   {
-    "slug": "5-ai-workflows-every-small-business-should-consider",
-    "title": "5 AI workflows every small business should consider",
-    "meta_description": "5 AI workflows every small business should consider",
-    "date": "2026-09-15",
-    "segment": "buyer",
-    "labels": [
-      "buyer"
-    ]
-  },
-  {
     "slug": "hire-ai-services-or-a-new-employee-a-smart-choice",
     "title": "Hire AI Services or a New Employee? A Smart Choice",
     "meta_description": "Hire AI services or add a new employee? Businesses face a critical decision powered by AI and human talent. This guide breaks down the cost, speed, customization, and flexibility to help you choose the right path.",
@@ -116,6 +106,16 @@
     "segment": "provider",
     "labels": [
       "provider"
+    ]
+  },
+  {
+    "slug": "5-ai-workflows-every-small-business-should-consider",
+    "title": "5 AI workflows every small business should consider",
+    "meta_description": "5 AI workflows every small business should consider",
+    "date": "2026-09-29",
+    "segment": "buyer",
+    "labels": [
+      "buyer"
     ]
   }
 ]
