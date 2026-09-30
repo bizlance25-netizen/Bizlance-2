@@ -49,21 +49,6 @@
     ]
   },
   {
-    "slug": "winning-ai-clients-without-racing-to-the-bottom",
-    "title": "Winning AI Clients Without Racing to the Bottom",
-    "meta_description": "Winning AI clients hinges on differentiating yourself from rivals, not lowering prices. Learn strategies to attract high\u2011value projects while keeping your rates sustainable.",
-    "date": "2026-09-24",
-    "segment": "provider",
-    "labels": [
-      "AI marketing",
-      "price strategy",
-      "Bizlance",
-      "freelancers",
-      "business clients",
-      "provider"
-    ]
-  },
-  {
     "slug": "calculate-ai-project-roi-a-practical-guide",
     "title": "Calculate AI Project ROI: A Practical Guide",
     "meta_description": "Learn how to calculate AI project ROI and make data-driven decisions when hiring AI service providers.",
@@ -116,6 +101,21 @@
     "segment": "buyer",
     "labels": [
       "buyer"
+    ]
+  },
+  {
+    "slug": "winning-ai-clients-without-racing-to-the-bottom",
+    "title": "Winning AI Clients Without Racing to the Bottom",
+    "meta_description": "Winning AI clients hinges on differentiating yourself from rivals, not lowering prices. Learn strategies to attract high\u2011value projects while keeping your rates sustainable.",
+    "date": "2026-09-30",
+    "segment": "provider",
+    "labels": [
+      "AI marketing",
+      "price strategy",
+      "Bizlance",
+      "freelancers",
+      "business clients",
+      "provider"
     ]
   }
 ]
