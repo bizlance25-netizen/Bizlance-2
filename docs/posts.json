@@ -50,16 +50,6 @@
     ]
   },
   {
-    "slug": "how-to-build-an-ai-case-study-that-actually-converts",
-    "title": "How to build an AI case study that actually converts",
-    "meta_description": "How to build an AI case study that actually converts",
-    "date": "2026-09-26",
-    "segment": "provider",
-    "labels": [
-      "provider"
-    ]
-  },
-  {
     "slug": "how-much-does-an-ai-automation-project-actually-cost",
     "title": "How much does an AI automation project actually cost?",
     "meta_description": "How much does an AI automation project actually cost?",
@@ -116,6 +106,16 @@
       "hiring decisions",
       "AI vs human",
       "buyer"
+    ]
+  },
+  {
+    "slug": "how-to-build-an-ai-case-study-that-actually-converts",
+    "title": "How to build an AI case study that actually converts",
+    "meta_description": "How to build an AI case study that actually converts",
+    "date": "2026-10-02",
+    "segment": "provider",
+    "labels": [
+      "provider"
     ]
   }
 ]
