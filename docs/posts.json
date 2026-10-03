@@ -1,15 +1,5 @@
 [
   {
-    "slug": "why-ai-projects-fail-and-how-to-avoid-it",
-    "title": "Why AI projects fail (and how to avoid it)",
-    "meta_description": "Why AI projects fail (and how to avoid it)",
-    "date": "2026-09-19",
-    "segment": "buyer",
-    "labels": [
-      "buyer"
-    ]
-  },
-  {
     "slug": "how-to-choose-an-ai-agency-for-your-business",
     "title": "How to Choose an AI Agency for Your Business",
     "meta_description": "How to choose an AI agency is crucial for businesses looking to leverage AI technology. Finding the right partner can mean the difference between accelerated growth and costly missteps.",
@@ -116,6 +106,16 @@
     "segment": "provider",
     "labels": [
       "provider"
+    ]
+  },
+  {
+    "slug": "why-ai-projects-fail-and-how-to-avoid-it",
+    "title": "Why AI projects fail (and how to avoid it)",
+    "meta_description": "Why AI projects fail (and how to avoid it)",
+    "date": "2026-10-03",
+    "segment": "buyer",
+    "labels": [
+      "buyer"
     ]
   }
 ]
