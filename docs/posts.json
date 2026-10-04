@@ -50,16 +50,6 @@
     ]
   },
   {
-    "slug": "how-to-create-a-high-converting-provider-profile",
-    "title": "How to create a high-converting provider profile",
-    "meta_description": "How to create a high-converting provider profile",
-    "date": "2026-09-28",
-    "segment": "provider",
-    "labels": [
-      "provider"
-    ]
-  },
-  {
     "slug": "5-ai-workflows-every-small-business-should-consider",
     "title": "5 AI workflows every small business should consider",
     "meta_description": "5 AI workflows every small business should consider",
@@ -116,6 +106,16 @@
     "segment": "buyer",
     "labels": [
       "buyer"
+    ]
+  },
+  {
+    "slug": "how-to-create-a-high-converting-provider-profile",
+    "title": "How to create a high-converting provider profile",
+    "meta_description": "How to create a high-converting provider profile",
+    "date": "2026-10-04",
+    "segment": "provider",
+    "labels": [
+      "provider"
     ]
   }
 ]
