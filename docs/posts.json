@@ -1,20 +1,5 @@
 [
   {
-    "slug": "how-to-choose-an-ai-agency-for-your-business",
-    "title": "How to Choose an AI Agency for Your Business",
-    "meta_description": "How to choose an AI agency is crucial for businesses looking to leverage AI technology. Finding the right partner can mean the difference between accelerated growth and costly missteps.",
-    "date": "2026-09-21",
-    "segment": "buyer",
-    "labels": [
-      "AI agency",
-      "AI consulting",
-      "business AI",
-      "AI services",
-      "choose AI agency",
-      "buyer"
-    ]
-  },
-  {
     "slug": "how-to-evaluate-an-ai-provider-before-you-hire-one",
     "title": "How to evaluate an AI provider before you hire one",
     "meta_description": "How to evaluate an AI provider before you hire one",
@@ -116,6 +101,21 @@
     "segment": "provider",
     "labels": [
       "provider"
+    ]
+  },
+  {
+    "slug": "how-to-choose-an-ai-agency-for-your-business",
+    "title": "How to Choose an AI Agency for Your Business",
+    "meta_description": "How to choose an AI agency is crucial for businesses looking to leverage AI technology. Finding the right partner can mean the difference between accelerated growth and costly missteps.",
+    "date": "2026-10-05",
+    "segment": "buyer",
+    "labels": [
+      "AI agency",
+      "AI consulting",
+      "business AI",
+      "AI services",
+      "choose AI agency",
+      "buyer"
     ]
   }
 ]
