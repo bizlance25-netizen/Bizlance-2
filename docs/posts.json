@@ -49,16 +49,6 @@
     ]
   },
   {
-    "slug": "how-to-build-an-ai-case-study-that-actually-converts",
-    "title": "How to build an AI case study that actually converts",
-    "meta_description": "How to build an AI case study that actually converts",
-    "date": "2026-10-02",
-    "segment": "provider",
-    "labels": [
-      "provider"
-    ]
-  },
-  {
     "slug": "why-ai-projects-fail-and-how-to-avoid-it",
     "title": "Why AI projects fail (and how to avoid it)",
     "meta_description": "Why AI projects fail (and how to avoid it)",
@@ -116,6 +106,16 @@
     "segment": "buyer",
     "labels": [
       "buyer"
+    ]
+  },
+  {
+    "slug": "how-to-build-an-ai-case-study-that-actually-converts",
+    "title": "How to build an AI case study that actually converts",
+    "meta_description": "How to build an AI case study that actually converts",
+    "date": "2026-10-08",
+    "segment": "provider",
+    "labels": [
+      "provider"
     ]
   }
 ]
