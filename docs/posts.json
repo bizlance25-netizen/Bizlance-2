@@ -44,16 +44,6 @@
     ]
   },
   {
-    "slug": "how-to-create-a-high-converting-provider-profile",
-    "title": "How to create a high-converting provider profile",
-    "meta_description": "How to create a high-converting provider profile",
-    "date": "2026-10-04",
-    "segment": "provider",
-    "labels": [
-      "provider"
-    ]
-  },
-  {
     "slug": "how-to-choose-an-ai-agency-for-your-business",
     "title": "How to Choose an AI Agency for Your Business",
     "meta_description": "How to choose an AI agency is crucial for businesses looking to leverage AI technology. Finding the right partner can mean the difference between accelerated growth and costly missteps.",
@@ -116,6 +106,16 @@
       "AI services",
       "Bizlance",
       "buyer"
+    ]
+  },
+  {
+    "slug": "how-to-create-a-high-converting-provider-profile",
+    "title": "How to create a high-converting provider profile",
+    "meta_description": "How to create a high-converting provider profile",
+    "date": "2026-10-10",
+    "segment": "provider",
+    "labels": [
+      "provider"
     ]
   }
 ]
