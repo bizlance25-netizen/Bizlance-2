@@ -45,16 +45,6 @@
     ]
   },
   {
-    "slug": "how-to-build-an-ai-case-study-that-actually-converts",
-    "title": "How to build an AI case study that actually converts",
-    "meta_description": "How to build an AI case study that actually converts",
-    "date": "2026-10-14",
-    "segment": "provider",
-    "labels": [
-      "provider"
-    ]
-  },
-  {
     "slug": "hire-ai-services-or-a-new-employee-a-smart-choice",
     "title": "Hire AI Services or a New Employee? A Smart Choice",
     "meta_description": "Hire AI services or add a new employee? Businesses face a critical decision powered by AI and human talent. This guide breaks down the cost, speed, customization, and flexibility to help you choose the right path.",
@@ -116,6 +106,16 @@
       "AI services",
       "choose AI agency",
       "buyer"
+    ]
+  },
+  {
+    "slug": "how-to-build-an-ai-case-study-that-actually-converts",
+    "title": "How to build an AI case study that actually converts",
+    "meta_description": "How to build an AI case study that actually converts",
+    "date": "2026-10-20",
+    "segment": "provider",
+    "labels": [
+      "provider"
     ]
   }
 ]
