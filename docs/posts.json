@@ -49,16 +49,6 @@
     ]
   },
   {
-    "slug": "how-to-create-a-high-converting-provider-profile",
-    "title": "How to create a high-converting provider profile",
-    "meta_description": "How to create a high-converting provider profile",
-    "date": "2026-10-16",
-    "segment": "provider",
-    "labels": [
-      "provider"
-    ]
-  },
-  {
     "slug": "why-ai-projects-fail-and-how-to-avoid-it",
     "title": "Why AI projects fail (and how to avoid it)",
     "meta_description": "Why AI projects fail (and how to avoid it)",
@@ -116,6 +106,16 @@
     "segment": "buyer",
     "labels": [
       "buyer"
+    ]
+  },
+  {
+    "slug": "how-to-create-a-high-converting-provider-profile",
+    "title": "How to create a high-converting provider profile",
+    "meta_description": "How to create a high-converting provider profile",
+    "date": "2026-10-22",
+    "segment": "provider",
+    "labels": [
+      "provider"
     ]
   }
 ]
