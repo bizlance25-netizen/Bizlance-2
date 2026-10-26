@@ -49,16 +49,6 @@
     ]
   },
   {
-    "slug": "how-to-build-an-ai-case-study-that-actually-converts",
-    "title": "How to build an AI case study that actually converts",
-    "meta_description": "How to build an AI case study that actually converts",
-    "date": "2026-10-20",
-    "segment": "provider",
-    "labels": [
-      "provider"
-    ]
-  },
-  {
     "slug": "how-to-evaluate-an-ai-provider-before-you-hire-one",
     "title": "How to evaluate an AI provider before you hire one",
     "meta_description": "How to evaluate an AI provider before you hire one",
@@ -116,6 +106,16 @@
     "segment": "buyer",
     "labels": [
       "buyer"
+    ]
+  },
+  {
+    "slug": "how-to-build-an-ai-case-study-that-actually-converts",
+    "title": "How to build an AI case study that actually converts",
+    "meta_description": "How to build an AI case study that actually converts",
+    "date": "2026-10-26",
+    "segment": "provider",
+    "labels": [
+      "provider"
     ]
   }
 ]
