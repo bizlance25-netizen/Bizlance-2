@@ -49,16 +49,6 @@
     ]
   },
   {
-    "slug": "how-to-create-a-high-converting-provider-profile",
-    "title": "How to create a high-converting provider profile",
-    "meta_description": "How to create a high-converting provider profile",
-    "date": "2026-10-22",
-    "segment": "provider",
-    "labels": [
-      "provider"
-    ]
-  },
-  {
     "slug": "calculate-ai-project-roi-a-practical-guide",
     "title": "Calculate AI Project ROI: A Practical Guide",
     "meta_description": "Learn how to calculate AI project ROI and make data-driven decisions when hiring AI service providers.",
@@ -116,6 +106,16 @@
     "segment": "buyer",
     "labels": [
       "buyer"
+    ]
+  },
+  {
+    "slug": "how-to-create-a-high-converting-provider-profile",
+    "title": "How to create a high-converting provider profile",
+    "meta_description": "How to create a high-converting provider profile",
+    "date": "2026-10-28",
+    "segment": "provider",
+    "labels": [
+      "provider"
     ]
   }
 ]
