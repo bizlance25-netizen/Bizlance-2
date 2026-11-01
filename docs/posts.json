@@ -50,16 +50,6 @@
     ]
   },
   {
-    "slug": "how-to-build-an-ai-case-study-that-actually-converts",
-    "title": "How to build an AI case study that actually converts",
-    "meta_description": "How to build an AI case study that actually converts",
-    "date": "2026-10-26",
-    "segment": "provider",
-    "labels": [
-      "provider"
-    ]
-  },
-  {
     "slug": "5-ai-workflows-every-small-business-should-consider",
     "title": "5 AI workflows every small business should consider",
     "meta_description": "5 AI workflows every small business should consider",
@@ -116,6 +106,16 @@
     "segment": "buyer",
     "labels": [
       "buyer"
+    ]
+  },
+  {
+    "slug": "how-to-build-an-ai-case-study-that-actually-converts",
+    "title": "How to build an AI case study that actually converts",
+    "meta_description": "How to build an AI case study that actually converts",
+    "date": "2026-11-01",
+    "segment": "provider",
+    "labels": [
+      "provider"
     ]
   }
 ]
